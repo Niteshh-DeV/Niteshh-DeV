@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://imgs.search.brave.com/LaxijT8zu3N7FSkxmPzvx7qVrgytr_410o6XvBLomTQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJiYXQuY29t/L2ltZy84NjIyMDMz/LXdhbGxwYXBlci1n/aXRodWIuanBn"  />
+  <img height="300" src="https://github.com/Niteshh-DeV/Niteshh-DeV/blob/main/Nitesh%20Joshi.png"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 
 ###
 
-<h1 align="center">Namaste🙏 I am Nitesh Joshi</h1>
+<h1 align="center">Namaste I am Nitesh Joshi</h1>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b7611ymp2sscja7k94scfxw5bp9m8fld7jki38p6rf7nb&ep=v1_gifs_search&rid=200.webp&ct=g"  />
+<img align="right" height="200" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0"  />
 
 ###
 
