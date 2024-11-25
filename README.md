@@ -33,7 +33,9 @@
 
 ###
 
-<h1 align="center">Namaste I am Nitesh Joshi</h1>
+<div align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Coding;I+like+Reading+Books;I+Love+Watching+Movies+And+Series;Pasoniate+About+AI/ML" alt="Headline"/> 
+</div>
 
 ###
 
