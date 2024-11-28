@@ -102,14 +102,16 @@
   <hr bgcolor="blue" >
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niteshh-DeV&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 ###
 <p align="center">
     <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
         <img src="https://readme-daily-quotes.vercel.app/api" alt="Daily Quote" />
     </a>
-  <center><strong>✨ Daily Inspiration ✨</strong></center>
+<p align = "center"> <strong>✨ Daily Inspiration ✨</strong></p>
 </p>
 
+###
 
 ###
 
