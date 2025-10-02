@@ -45,11 +45,6 @@
 
 <p align="left">I'm ... from  Mahendranagar Kanchanpur<br><br>- 📚 I'm currently learning ...C++ and Python<br>- ⚡ In my free time I used to  coding , watching movies and Reading Books.......</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <img align="right" height="200" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0"  />
 
